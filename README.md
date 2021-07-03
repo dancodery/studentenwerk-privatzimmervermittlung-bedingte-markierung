@@ -4,7 +4,7 @@
 
 Das Programm markiert alle Zeilen grün, die unter der maximalen Miete, unter dem Preis pro Quadratmeter und über der minimalen Fläche liegen. Die passenden Ergebnisse werden dann mit grüner Farbe hinterlegt.
 
-Demo Screenshot für München:
+Demo Screenshot für München (letzte Spalte ist Preis pro Quadratmeter):
 <img src='demo-images/screenshot.png'>
 
 ## Installation
